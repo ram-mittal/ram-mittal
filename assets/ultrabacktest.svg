@@ -1,54 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 460" role="img" aria-label="UltraBacktest research pipeline">
-<rect width="1600" height="460" fill="#111214"/>
-<rect x="24" y="24" width="1552" height="412" fill="none" stroke="#c7b895" stroke-width="2"/>
-<g fill="#f2efe8" font-family="monospace">
-<text x="68" y="82" font-size="30" letter-spacing="4">UltraBacktest</text>
-<text x="68" y="116" font-size="13" letter-spacing="2">QUANTITATIVE RESEARCH · EVENT SIMULATION · VALIDATION · C++20</text>
-</g>
-<g fill="none" stroke="#c7b895" stroke-width="2">
-<rect x="250" y="170" width="185" height="118" rx="2"/>
-<rect x="475" y="170" width="185" height="118" rx="2"/>
-<rect x="700" y="170" width="185" height="118" rx="2"/>
-<rect x="925" y="170" width="185" height="118" rx="2"/>
-<rect x="1150" y="170" width="185" height="118" rx="2"/>
-<rect x="1375" y="170" width="165" height="118" rx="2"/>
-</g>
-<g fill="#f2efe8" font-family="monospace" text-anchor="middle">
-<text x="342" y="202" font-size="15">HISTORICAL EVENTS</text>
-<text x="342" y="232" font-size="11">trades · quotes</text>
-<text x="342" y="252" font-size="11">market states</text>
-<text x="567" y="202" font-size="15">EVENT REPLAY</text>
-<text x="567" y="232" font-size="11">deterministic engine</text>
-<text x="567" y="252" font-size="11">time-accurate</text>
-<text x="792" y="202" font-size="15">EXCHANGE SIM</text>
-<text x="792" y="232" font-size="11">matching · latency</text>
-<text x="792" y="252" font-size="11">slippage · impact</text>
-<text x="1017" y="202" font-size="15">STRATEGY</text>
-<text x="1017" y="232" font-size="11">signals · execution</text>
-<text x="1017" y="252" font-size="11">position sizing</text>
-<text x="1242" y="202" font-size="15">PORTFOLIO + RISK</text>
-<text x="1242" y="232" font-size="11">PnL · drawdown</text>
-<text x="1242" y="252" font-size="11">scenario analysis</text>
-<text x="1457" y="202" font-size="15">VALIDATION</text>
-<text x="1457" y="232" font-size="11">robustness</text>
-<text x="1457" y="252" font-size="11">stress tests</text>
-</g>
-<g stroke="#f2efe8" stroke-width="2" fill="none">
-<path d="M435 229h40m-10-7 10 7-10 7"/>
-<path d="M660 229h40m-10-7 10 7-10 7"/>
-<path d="M885 229h40m-10-7 10 7-10 7"/>
-<path d="M1110 229h40m-10-7 10 7-10 7"/>
-<path d="M1335 229h40m-10-7 10 7-10 7"/>
-<path d="M1457 300v58H342v-58"/>
-</g>
-<g fill="#c7b895" font-family="monospace" font-size="12" letter-spacing="2">
-<text x="68" y="395">REPRODUCIBLE REPLAY</text>
-<text x="395" y="395">EXECUTION REALISM</text>
-<text x="725" y="395">PORTFOLIO STATE</text>
-<text x="1045" y="395">RISK ANALYSIS</text>
-<text x="1325" y="395">ROBUSTNESS</text>
-</g>
-<g fill="#f2efe8" font-family="monospace" font-size="12" letter-spacing="3">
-<text x="745" y="425">ITERATE · IMPROVE · REPEAT</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="UltraBacktest quantitative research pipeline">
+<rect width="1200" height="360" fill="#111214"/><rect x="16" y="16" width="1168" height="328" fill="none" stroke="#c7b895" stroke-width="2"/>
+<g fill="#f2efe8" font-family="monospace"><text x="48" y="58" font-size="26" letter-spacing="4">UltraBacktest</text><text x="48" y="82" font-size="11" letter-spacing="2">QUANTITATIVE RESEARCH · EVENT SIMULATION · VALIDATION · C++20</text></g>
+<g fill="none" stroke="#c7b895" stroke-width="2"><rect x="48" y="128" width="185" height="92" rx="2"/><rect x="285" y="128" width="185" height="92" rx="2"/><rect x="522" y="128" width="185" height="92" rx="2"/><rect x="759" y="128" width="185" height="92" rx="2"/><rect x="996" y="128" width="156" height="92" rx="2"/></g>
+<g fill="#f2efe8" font-family="monospace" text-anchor="middle"><text x="140" y="157" font-size="14">HISTORICAL EVENTS</text><text x="140" y="181" font-size="10">trades · quotes</text><text x="140" y="199" font-size="10">market states</text><text x="377" y="157" font-size="14">EVENT REPLAY</text><text x="377" y="181" font-size="10">deterministic</text><text x="377" y="199" font-size="10">time-accurate</text><text x="614" y="157" font-size="14">EXCHANGE SIM</text><text x="614" y="181" font-size="10">matching · latency</text><text x="614" y="199" font-size="10">slippage · impact</text><text x="851" y="157" font-size="14">STRATEGY + RISK</text><text x="851" y="181" font-size="10">signals · sizing</text><text x="851" y="199" font-size="10">PnL · drawdown</text><text x="1074" y="157" font-size="14">VALIDATION</text><text x="1074" y="181" font-size="10">robustness</text><text x="1074" y="199" font-size="10">stress tests</text></g>
+<g stroke="#f2efe8" stroke-width="2" fill="none"><path d="M233 174h52m-9-7 9 7-9 7"/><path d="M470 174h52m-9-7 9 7-9 7"/><path d="M707 174h52m-9-7 9 7-9 7"/><path d="M944 174h52m-9-7 9 7-9 7"/><path d="M1074 220v44H140v-44"/></g>
+<g fill="#c7b895" font-family="monospace" font-size="10" letter-spacing="1.5"><text x="48" y="292">REPRODUCIBLE REPLAY</text><text x="285" y="292">EXECUTION REALISM</text><text x="522" y="292">PORTFOLIO STATE</text><text x="759" y="292">RISK ANALYSIS</text><text x="996" y="292">ROBUSTNESS</text></g>
+<text x="600" y="320" fill="#f2efe8" font-family="monospace" font-size="11" letter-spacing="2" text-anchor="middle">ITERATE · IMPROVE · REPEAT</text>
 </svg>

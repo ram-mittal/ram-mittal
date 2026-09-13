@@ -1,140 +1,184 @@
+<div align="center">
+
 # RAM MITTAL
 
-### Quantitative Research · Financial Engineering · Market Microstructure
+### QUANTITATIVE RESEARCH · FINANCIAL ENGINEERING · MARKET MICROSTRUCTURE
 
-> Building systems where mathematics, markets and computation meet.
+*Building systems where mathematics, markets and computation meet.*
 
-Research-driven work across quantitative finance, trading infrastructure, derivatives pricing, and systematic market analysis.
+<br>
 
----
+`RESEARCH` &nbsp;·&nbsp; `MODEL` &nbsp;·&nbsp; `VALIDATE` &nbsp;·&nbsp; `EXECUTE`
 
-## Currently
-
-- Building quantitative research infrastructure for reproducible market studies.
-- Exploring market microstructure, execution, statistical validation, and derivatives pricing.
-- Developing high-performance systems in C++ and Python with an emphasis on deterministic research and measurable performance.
+</div>
 
 ---
 
-## Selected Work
+## PROFILE
 
-### UltraLOB
-**Ultra-Low-Latency Limit Order Book & Matching Engine**  
-C++20 execution infrastructure focused on price-time priority matching, lock-free ingestion, deterministic journaling, pre-trade risk, market data distribution, and low-latency gateway design.
+I build quantitative research and financial systems at the intersection of **mathematics, statistics, computation, and market structure**.
 
-→ [ram-mittal/UltraLOB](https://github.com/ram-mittal/UltraLOB)
-
-### UltraBacktest
-**Deterministic Event-Driven Backtesting Infrastructure**  
-High-performance research infrastructure for historical event replay, exchange simulation, strategy evaluation, portfolio accounting, risk controls, and reproducible execution research.
-
-→ [ram-mittal/Stratergy-tester](https://github.com/ram-mittal/Stratergy-tester)
-
-### Next Research Track
-**GPU Monte Carlo Pricing Engine**  
-Planned financial-engineering work spanning stochastic models, Monte Carlo simulation, variance reduction, GPU parallelization, derivatives pricing, Greeks, validation, and performance benchmarking.
+My work spans market microstructure, deterministic simulation, execution infrastructure, derivatives pricing, systematic research, and performance engineering—with an emphasis on understanding the mechanism behind a result rather than optimizing for presentation alone.
 
 ---
 
-## Research Interests
+## CURRENT FOCUS
 
-| Area | Focus |
-|---|---|
-| **Quantitative Research** | Statistical modelling, systematic strategies, backtesting, validation |
-| **Financial Engineering** | Monte Carlo methods, derivatives pricing, risk, numerical methods |
-| **Market Microstructure** | Limit order books, order flow, execution, liquidity, price formation |
-| **Trading Systems** | Low-latency architecture, deterministic replay, market data, risk engines |
-| **Computational Finance** | C++, Python, parallel computing, performance engineering |
+**Quantitative Research**  
+Systematic modelling · backtesting · statistical validation · risk analysis
 
----
+**Financial Engineering**  
+Monte Carlo methods · derivatives pricing · numerical methods · computational finance
 
-## Research Framework
-
-```text
-Market Observation
-        ↓
-    Hypothesis
-        ↓
-Quantitative Model
-        ↓
-      Backtest
-        ↓
-Statistical Validation
-        ↓
-   Risk Analysis
-        ↓
-     Execution
-```
-
-The objective is not simply to produce a model, but to build a research process where assumptions, simulations, performance, and failure modes can be examined systematically.
-
----
-
-## Technology Stack
-
-**Languages**  
-C++20 · Python · SQL
-
-**Quantitative / Data**  
-NumPy · pandas · SciPy · statistical modelling · numerical methods
-
-**Systems**  
-Linux · CMake · multithreading · lock-free structures · memory-aware design
+**Market Microstructure**  
+Limit order books · order flow · execution · liquidity · price formation
 
 **Research Infrastructure**  
-Event-driven simulation · benchmarking · profiling · deterministic replay · risk systems
+C++20 · Python · event-driven systems · deterministic replay · performance engineering
 
 ---
 
-## Building At The Intersection Of
+## SELECTED WORK
 
-**Mathematics**  ·  **Statistics**  ·  **Computation**  ·  **Market Structure**  ·  **System Design**
+### 01 · UltraLOB
+**Ultra-Low-Latency Limit Order Book & Matching Engine**
+
+C++20 execution infrastructure built around price-time priority, allocation-free hot paths, lock-free ingestion, deterministic journaling and replay, pre-trade risk, market-data distribution, and low-latency gateway design.
+
+**Market Microstructure · Execution Systems · C++20**  
+[View repository →](https://github.com/ram-mittal/UltraLOB)
+
+### 02 · UltraBacktest
+**Deterministic Event-Driven Backtesting Infrastructure**
+
+High-performance research infrastructure for historical event replay, exchange simulation, strategy evaluation, portfolio accounting, risk controls, and reproducible execution research.
+
+**Quantitative Research · Simulation · Performance Engineering**  
+[View repository →](https://github.com/ram-mittal/Stratergy-tester)
+
+### 03 · Next Research Track
+**GPU Monte Carlo Pricing Engine**
+
+A planned financial-engineering system covering stochastic models, Monte Carlo simulation, variance reduction, GPU parallelization, derivatives pricing, Greeks, validation, and performance benchmarking.
+
+**Computational Finance · Derivatives · GPU Computing**
 
 ---
 
-## Research Principles
-
-**Deterministic where possible.**  
-Reproducible simulations make research easier to trust and debug.
-
-**Measure before optimizing.**  
-Performance claims should be tied to explicit workloads, hardware, and benchmarks.
-
-**Model the mechanism.**  
-Execution, liquidity, latency, and risk matter when translating a strategy into a system.
-
-**Validate beyond the backtest.**  
-Robust research requires statistical checks, stress testing, and awareness of model limitations.
-
----
-
-## Portfolio Architecture
+## RESEARCH ARCHITECTURE
 
 ```text
-                    RAM MITTAL
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-      Research      Financial Eng.   Microstructure
-          │              │              │
-   UltraBacktest   Monte Carlo      UltraLOB
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                    Execution
+                         MARKET DATA
+                              │
+                              ▼
+                       MARKET OBSERVATION
+                              │
+                              ▼
+                         HYPOTHESIS
+                              │
+                              ▼
+                      QUANTITATIVE MODEL
+                              │
+                              ▼
+                          BACKTEST
+                              │
+                              ▼
+                   STATISTICAL VALIDATION
+                              │
+                              ▼
+                        RISK ANALYSIS
+                              │
+                              ▼
+                          EXECUTION
+                              │
+                              ▼
+                         MONITORING
 ```
 
-This portfolio is being developed as a connected research stack rather than a collection of unrelated projects.
+The objective is a research process in which assumptions, execution mechanics, simulations, performance, and failure modes remain **observable and reproducible**.
 
 ---
 
-## Connect
+## ENGINEERING PRINCIPLES
 
-**GitHub:** [@ram-mittal](https://github.com/ram-mittal)  
-**LinkedIn:** [Ram Mittal](https://www.linkedin.com/in/rammittal)
+> **Determinism over ambiguity.**  
+> Reproducible systems make research easier to inspect, compare, and debug.
+
+> **Measure before optimizing.**  
+> Performance claims should be tied to explicit workloads, hardware, and methodology.
+
+> **Model the mechanism.**  
+> Liquidity, latency, queue position, execution, and risk can materially change a strategy's behaviour.
+
+> **Validate beyond the backtest.**  
+> Robust research requires statistical checks, stress testing, and explicit awareness of model limitations.
 
 ---
 
-<p align="center">
-  <sub>Research → Model → Validate → Execute</sub>
-</p>
+## TECHNOLOGY
+
+| Domain | Tools & Methods |
+|:--|:--|
+| **Languages** | C++20 · Python · SQL |
+| **Quantitative** | NumPy · pandas · SciPy · statistical modelling · numerical methods |
+| **Systems** | Linux · CMake · multithreading · lock-free structures · memory-aware design |
+| **Research** | Event-driven simulation · deterministic replay · benchmarking · profiling |
+| **Finance** | Market microstructure · derivatives · execution · risk systems |
+
+---
+
+## PORTFOLIO MAP
+
+```text
+                         RAM MITTAL
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+         QUANT RESEARCH   FINANCIAL ENG.   MICROSTRUCTURE
+              │               │               │
+        UltraBacktest    Monte Carlo         UltraLOB
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                         EXECUTION
+```
+
+These projects are being developed as a **connected quantitative stack** rather than a collection of unrelated software projects.
+
+---
+
+## BUILDING AT THE INTERSECTION OF
+
+<div align="center">
+
+**MATHEMATICS** &nbsp; · &nbsp; **STATISTICS** &nbsp; · &nbsp; **COMPUTATION**  
+**MARKET STRUCTURE** &nbsp; · &nbsp; **SYSTEM DESIGN** &nbsp; · &nbsp; **QUANTITATIVE RESEARCH**
+
+</div>
+
+---
+
+## SELECTED RESEARCH QUESTIONS
+
+- How does execution mechanics alter the realised behaviour of a strategy?
+- How can historical market events be replayed deterministically at scale?
+- How should market microstructure be represented in a quantitative model?
+- Where do numerical methods become computational bottlenecks in derivatives pricing?
+- How can performance be improved without compromising reproducibility or model integrity?
+
+---
+
+## CONNECT
+
+**GitHub** · [@ram-mittal](https://github.com/ram-mittal)  
+**LinkedIn** · [Ram Mittal](https://www.linkedin.com/in/rammittal)
+
+<br>
+
+<div align="center">
+
+---
+
+*Mathematics → Markets → Systems*
+
+</div>

@@ -1,18 +1,6 @@
 <div align="center">
 
-# RAM MITTAL
-
-### QUANTITATIVE RESEARCH · FINANCIAL ENGINEERING · MARKET MICROSTRUCTURE
-
-**Building systems where mathematics, markets and computation meet.**
-
-<br>
-
-`RESEARCH` &nbsp; ◇ &nbsp; `MODEL` &nbsp; ◇ &nbsp; `VALIDATE` &nbsp; ◇ &nbsp; `EXECUTE`
-
-<br><br>
-
-<sub>QUANTITATIVE FINANCE · SYSTEMS ENGINEERING · COMPUTATIONAL RESEARCH</sub>
+<img src="./assets/hero.svg" width="100%" alt="Ram Mittal quantitative research" />
 
 </div>
 
@@ -73,6 +61,10 @@ UltraLOB is a high-performance C++20 execution system designed around **price-ti
 
 The project focuses on the engineering problems that appear when a theoretical market model has to become an executable system: memory ownership, contention, queueing, state recovery, message handling, risk checks, and measurable latency.
 
+<div align="center">
+<img src="./assets/ultralob.svg" width="100%" alt="UltraLOB market microstructure and execution architecture" />
+</div>
+
 **Research lens**  
 Order matching · liquidity representation · execution mechanics · latency · system determinism
 
@@ -89,6 +81,10 @@ Order matching · liquidity representation · execution mechanics · latency · 
 UltraBacktest is research infrastructure for **historical event replay, exchange simulation, strategy evaluation, portfolio accounting, risk controls, and reproducible execution research**.
 
 The system is designed to separate the research question from the mechanics of replay: market events are processed deterministically, execution assumptions can be represented explicitly, and performance can be benchmarked against defined workloads rather than opaque wall-clock claims.
+
+<div align="center">
+<img src="./assets/ultrabacktest.svg" width="100%" alt="UltraBacktest deterministic event-driven research architecture" />
+</div>
 
 **Research lens**  
 Event replay · execution modelling · portfolio state · risk · reproducibility · simulation performance

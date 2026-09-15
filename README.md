@@ -2,6 +2,10 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Ram Mittal quantitative research" />
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ram-mittal&label=PROFILE+VIEWS&color=c7b895&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---

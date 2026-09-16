@@ -18,7 +18,7 @@
 
 </div>
 
-## 01 — PROFILE
+## 01 - PROFILE
 
 I build quantitative research and financial systems at the intersection of **mathematics, statistics, computation, and market structure**.
 
@@ -28,7 +28,7 @@ The current portfolio spans **market microstructure, deterministic simulation, e
 
 ---
 
-## 02 — RESEARCH MANDATE
+## 02 - RESEARCH MANDATE
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ The current portfolio spans **market microstructure, deterministic simulation, e
 
 ---
 
-## 03 — SELECTED SYSTEMS
+## 03 - SELECTED SYSTEMS
 
 ### ◈ 01 / ULTRALOB
 
@@ -112,7 +112,7 @@ Stochastic processes · numerical methods · Monte Carlo · derivatives · paral
 
 ---
 
-## 04 — RESEARCH PIPELINE
+## 04 - RESEARCH PIPELINE
 
 <div align="center">
 
@@ -158,7 +158,7 @@ The purpose of the pipeline is to make the **entire research chain inspectable**
 
 ---
 
-## 05 — RESEARCH PRINCIPLES
+## 05 - RESEARCH PRINCIPLES
 
 ### I · DETERMINISM
 
@@ -170,7 +170,7 @@ Performance should be reported against an explicit workload, environment, method
 
 ### III · MECHANISM
 
-Execution, liquidity, latency, queue position, and risk are part of the model—not inconvenient details added afterwards.
+Execution, liquidity, latency, queue position, and risk are part of the model - not inconvenient details added afterwards.
 
 ### IV · VALIDATION
 
@@ -182,7 +182,7 @@ Keep critical paths explicit, memory behaviour observable, interfaces clear, and
 
 ---
 
-## 06 — TECHNOLOGY & METHODS
+## 06 - TECHNOLOGY & METHODS
 
 <table>
 <tr>
@@ -199,7 +199,7 @@ Keep critical paths explicit, memory behaviour observable, interfaces clear, and
 
 ---
 
-## 07 — PORTFOLIO ARCHITECTURE
+## 07 - PORTFOLIO ARCHITECTURE
 
 <div align="center">
 
@@ -229,7 +229,7 @@ Together they form a progression from **model → simulation → market mechanic
 
 ---
 
-## 08 — RESEARCH QUESTIONS
+## 08 - RESEARCH QUESTIONS
 
 > **How does execution mechanics alter realised strategy behaviour?**
 
@@ -245,7 +245,7 @@ Together they form a progression from **model → simulation → market mechanic
 
 ---
 
-## 09 — THE STACK
+## 09 - THE STACK
 
 <div align="center">
 
@@ -281,7 +281,7 @@ Together they form a progression from **model → simulation → market mechanic
 
 ---
 
-## 10 — DIRECTION
+## 10 - DIRECTION
 
 The longer-term objective is to build a research stack capable of moving fluidly between **market data, mathematical models, statistical evidence, computational systems, and execution mechanics**.
 
@@ -298,7 +298,7 @@ Areas of continued exploration include:
 
 ---
 
-## 11 — CONNECT
+## 11 - CONNECT
 
 <div align="center">
 
